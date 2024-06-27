@@ -1,0 +1,38 @@
+/* 
+.container{
+    background-color:orange;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    width: fit-content;
+}
+.container{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 20px;
+    width: fit-content;
+} */
+ .container {
+    width: 100px;
+    height: 400px;
+    /* border: 2px solid; */
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+ }
+
+ form {
+    width: fit-content;
+    height: fit-content;
+    border: 2px solid;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 20px;
+ }
